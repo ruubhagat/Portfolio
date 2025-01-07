@@ -180,8 +180,6 @@ nav a:hover::after {
     color: var(--secondary);
 }
 
-/* Add these styles to center the sections */
-
 h2 {
     text-align: center;
     font-size: 2.5rem;
